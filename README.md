@@ -7,7 +7,7 @@
 </p>
 
 
-## Solved.ac 프로필
+
 <a href="https://solved.ac/simon0630" target="_blank">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=simon0630" alt="Solved.ac Profile"/>
 </a>
