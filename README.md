@@ -5,8 +5,7 @@
 <h3 align="left">Connect with me: dongcheola3@gmail.com</h3>
 <p align="left">
 </p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=simon0630)](https://solved.ac/profile/simon0630)
+
 
 ## Solved.ac 프로필
 <a href="https://solved.ac/simon0630" target="_blank">
