@@ -7,7 +7,11 @@
 </p>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=simon0630)](https://solved.ac/profile/simon0630)
-<h3 align="left">Languages and Tools:</h3>
+
+## Solved.ac 프로필
+<a href="https://solved.ac/simon0630" target="_blank">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=simon0630" alt="Solved.ac Profile"/>
+</a>
 ![GitHub Stats]
 <img src="https://github-readme-stats.vercel.app/api?username=SimonCreater&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
