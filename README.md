@@ -6,7 +6,7 @@
 <p align="left">
 </p>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=simon0630)](https://solved.ac/simon0630)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=simon0630)](https://solved.ac/profile/simon0630)
 <h3 align="left">Languages and Tools:</h3>
 ![GitHub Stats]
 <img src="https://github-readme-stats.vercel.app/api?username=SimonCreater&show_icons=true&theme=radical" alt="GitHub Stats"/>
