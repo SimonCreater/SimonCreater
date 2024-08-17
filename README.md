@@ -2,6 +2,7 @@
 
 <!--
 **SimonCreater/SimonCreater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![DongCheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonCreater&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
