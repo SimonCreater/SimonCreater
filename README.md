@@ -32,7 +32,7 @@ QFN, LGA 등 다양한 패키지 타입의 미세 결함 검출을 위해 Faster
 
 ### Achievements & Publications
 
-- 2025 제23회 한국경제신문 경제논문경진대회 우수상 수상  
+- 2025 제23회 한국경제신문 경제논문경진대회 우수상 수상  (https://www.hankyung.com/article/2025112703171)
 - 안동철, 윤성욱, 김정은  "CNN–Transformer 기반 서울시 위험 인지 드론 경로 계획"  한국소프트웨어종합학술대회(KSC), 2025.12
 
 <br/><br/>
