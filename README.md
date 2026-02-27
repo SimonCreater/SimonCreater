@@ -18,8 +18,8 @@ Deep Learning & Industrial Anomaly Detection
 **2024.12 ~ Present**  
 https://sites.google.com/view/inha-dia  
 
-현재 과학기술정보통신부 산하 정보통신기획평가원이 주관하는 「지역지능화혁신인재양성사업」
-의 산학협력 지능화 연구원으로 참여하고 있습니다.  
+E-Map 기반 반도체 패키징 가성불량 및 진성불량 분류(Classification of False and True Defects in Semiconductor Packaging Based on E-Map) 연구를 수행하고 있으며,
+정보통신기획평가원(과학기술정보통신부) 주관 「지역지능화혁신인재양성사업-산학협력지능화연구」 과제에 참여하고 있습니다.
 주요 연구 과제인 반도체 패키징 가성불량 및 진성불량 분류를 통해 실제 산업 현장의 품질 관리 효율을 극대화하는 데 주력하고 있습니다.
 
 ### Key Research & Projects
